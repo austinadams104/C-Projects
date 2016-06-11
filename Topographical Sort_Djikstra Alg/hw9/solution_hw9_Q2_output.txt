@@ -1,0 +1,21 @@
+The number of vertices is: 6
+
+The following are the adjacent lists with edge weights in the parentheses:
+Adj list of vertex 0: 1(5)->4(10)
+Adj list of vertex 1: 2(2)->3(9)->4(3)->5(8)
+Adj list of vertex 2: 0(7)->3(6)->5(4)
+Adj list of vertex 3: 2(4)->4(8)->5(3)
+Adj list of vertex 4: 1(2)->3(1)
+Adj list of vertex 5: 3(6)
+
+The shortest path from the source vertex 0 to vertex 1: 0->1
+The shortest path from the source vertex 0 to vertex 2: 0->1->2
+The shortest path from the source vertex 0 to vertex 3: 0->1->4->3
+The shortest path from the source vertex 0 to vertex 4: 0->1->4
+The shortest path from the source vertex 0 to vertex 5: 0->1->2->5
+
+The shortest path distance from the source vertex 0 to vertex 1 is: 5
+The shortest path distance from the source vertex 0 to vertex 2 is: 7
+The shortest path distance from the source vertex 0 to vertex 3 is: 9
+The shortest path distance from the source vertex 0 to vertex 4 is: 8
+The shortest path distance from the source vertex 0 to vertex 5 is: 11

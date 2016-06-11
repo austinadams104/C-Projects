@@ -1,0 +1,6 @@
+The pre-order traversal list is: 
+11  7  2  1  3  9  8  10  15  13  12  14  16  20  
+The in-order traversal list is: 
+1  2  3  7  8  9  10  11  12  13  14  15  16  20  
+The root is: 11
+The height of the tree is: 3

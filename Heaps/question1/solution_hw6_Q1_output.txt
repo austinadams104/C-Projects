@@ -1,0 +1,14 @@
+13
+18
+19
+21
+22
+14
+16
+11
+
+The following are the keys in the heap:
+1 37 24 58 50 31 26 68 110 54 85 41 63 32 86 194 141 146 114 101 105 158 186 49 143 95 189 888 65 
+
+The following are the keys in the heap sorted in descending order: 
+888 194 189 186 158 146 143 141 114 110 105 101 95 86 85 68 65 63 58 54 50 49 41 37 32 31 26 24 1 
