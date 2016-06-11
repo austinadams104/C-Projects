@@ -1,2 +1,0 @@
-The following is the DFS traversal vertex order, staring from vertex 0:
-0 1 3 2 6 4 5 7 
